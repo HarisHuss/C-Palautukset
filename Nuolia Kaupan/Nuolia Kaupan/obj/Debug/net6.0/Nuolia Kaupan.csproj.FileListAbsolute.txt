@@ -1,0 +1,15 @@
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\bin\Debug\net6.0\Nuolia Kaupan.exe
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\bin\Debug\net6.0\Nuolia Kaupan.deps.json
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\bin\Debug\net6.0\Nuolia Kaupan.runtimeconfig.json
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\bin\Debug\net6.0\Nuolia Kaupan.dll
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\bin\Debug\net6.0\Nuolia Kaupan.pdb
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\Nuolia Kaupan.csproj.AssemblyReference.cache
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\Nuolia Kaupan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\Nuolia Kaupan.AssemblyInfoInputs.cache
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\Nuolia Kaupan.AssemblyInfo.cs
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\Nuolia Kaupan.csproj.CoreCompileInputs.cache
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\Nuolia Kaupan.dll
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\refint\Nuolia Kaupan.dll
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\Nuolia Kaupan.pdb
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\Nuolia Kaupan.genruntimeconfig.cache
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Nuolia Kaupan\Nuolia Kaupan\obj\Debug\net6.0\ref\Nuolia Kaupan.dll

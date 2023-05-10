@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robotti", "Robotti\Robotti.csproj", "{E665E14D-C07E-4058-996D-1B8958FBD8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E665E14D-C07E-4058-996D-1B8958FBD8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E665E14D-C07E-4058-996D-1B8958FBD8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E665E14D-C07E-4058-996D-1B8958FBD8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E665E14D-C07E-4058-996D-1B8958FBD8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5697899-C733-4964-8A9F-49CE88F47D03}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\bin\Debug\net6.0\Robotti.exe
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\bin\Debug\net6.0\Robotti.deps.json
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\bin\Debug\net6.0\Robotti.runtimeconfig.json
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\bin\Debug\net6.0\Robotti.dll
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\bin\Debug\net6.0\Robotti.pdb
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\Robotti.csproj.AssemblyReference.cache
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\Robotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\Robotti.AssemblyInfoInputs.cache
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\Robotti.AssemblyInfo.cs
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\Robotti.csproj.CoreCompileInputs.cache
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\Robotti.dll
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\refint\Robotti.dll
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\Robotti.pdb
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\Robotti.genruntimeconfig.cache
+C:\Users\s2100973\OneDrive - Business College Helsinki\Työpöytä\C# Olio\Robotti\Robotti\obj\Debug\net6.0\ref\Robotti.dll

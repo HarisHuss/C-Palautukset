@@ -1,0 +1,15 @@
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\bin\Debug\net6.0\Kordinaatisto.exe
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\bin\Debug\net6.0\Kordinaatisto.deps.json
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\bin\Debug\net6.0\Kordinaatisto.runtimeconfig.json
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\bin\Debug\net6.0\Kordinaatisto.dll
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\bin\Debug\net6.0\Kordinaatisto.pdb
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\Kordinaatisto.csproj.AssemblyReference.cache
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\Kordinaatisto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\Kordinaatisto.AssemblyInfoInputs.cache
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\Kordinaatisto.AssemblyInfo.cs
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\Kordinaatisto.csproj.CoreCompileInputs.cache
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\Kordinaatisto.dll
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\refint\Kordinaatisto.dll
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\Kordinaatisto.pdb
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\Kordinaatisto.genruntimeconfig.cache
+C:\Users\s2100973\source\repos\Hirsipuu\Hirsipuu\Kordinaatisto\Kordinaatisto\obj\Debug\net6.0\ref\Kordinaatisto.dll
